@@ -2,20 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="1857" started-at="2020-05-06T08:44:06 IST" finished-at="2020-05-06T08:44:08 IST">
+  <suite name="Default suite" duration-ms="3167" started-at="2023-04-23T14:53:47 IST" finished-at="2023-04-23T14:53:50 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="1857" started-at="2020-05-06T08:44:06 IST" finished-at="2020-05-06T08:44:08 IST">
-      <class name="tests.UserMangTests">
-        <test-method status="PASS" signature="startUp()[pri:0, instance:tests.UserMangTests@1f554b06]" name="startUp" is-config="true" duration-ms="9" started-at="2020-05-06T08:44:06 IST" finished-at="2020-05-06T08:44:06 IST">
+    <test name="Default test" duration-ms="3167" started-at="2023-04-23T14:53:47 IST" finished-at="2023-04-23T14:53:50 IST">
+      <class name="tests.DeleteApisTests">
+        <test-method status="PASS" signature="test1()[pri:0, instance:tests.DeleteApisTests@7c29daf3]" name="test1" duration-ms="3127" started-at="2023-04-23T14:53:47 IST" finished-at="2023-04-23T14:53:50 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- startUp -->
-        <test-method status="PASS" signature="getSingleUserDetails()[pri:0, instance:tests.UserMangTests@1f554b06]" name="getSingleUserDetails" duration-ms="1813" started-at="2020-05-06T08:44:06 IST" finished-at="2020-05-06T08:44:08 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- getSingleUserDetails -->
-      </class> <!-- tests.UserMangTests -->
+        </test-method> <!-- test1 -->
+      </class> <!-- tests.DeleteApisTests -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
