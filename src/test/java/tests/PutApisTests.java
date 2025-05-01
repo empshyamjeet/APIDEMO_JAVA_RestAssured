@@ -1,11 +1,7 @@
 package tests;
 
-import org.testng.Assert;
 import org.testng.annotations.Test;
 import static io.restassured.RestAssured.*;
-import io.restassured.RestAssured;
-import io.restassured.response.Response;
-import static org.hamcrest.Matchers.*;
 
 import org.json.simple.JSONObject;
 
