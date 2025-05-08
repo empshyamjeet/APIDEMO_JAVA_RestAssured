@@ -6,8 +6,8 @@
     <groups>
     </groups>
     <test name="Default test" duration-ms="3167" started-at="2023-04-23T14:53:47 IST" finished-at="2023-04-23T14:53:50 IST">
-      <class name="tests.DeleteApisTests">
-        <test-method status="PASS" signature="test1()[pri:0, instance:tests.DeleteApisTests@7c29daf3]" name="test1" duration-ms="3127" started-at="2023-04-23T14:53:47 IST" finished-at="2023-04-23T14:53:50 IST">
+      <class name="APITests.DeleteApisTests">
+        <test-method status="PASS" signature="test1()[pri:0, instance:APITests.DeleteApisTests@7c29daf3]" name="test1" duration-ms="3127" started-at="2023-04-23T14:53:47 IST" finished-at="2023-04-23T14:53:50 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
