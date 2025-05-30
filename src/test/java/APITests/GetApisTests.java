@@ -39,6 +39,4 @@ public class GetApisTests {
 		log().all();
 
 	}
-
-
 }

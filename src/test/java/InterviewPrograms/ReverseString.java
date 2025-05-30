@@ -1,0 +1,10 @@
+package InterviewPrograms;
+
+public class ReverseString {
+    public static void main(String[] args) {
+        String str="QAEngineer";
+        for (int i = str.length()-1; i >=0; i--) {
+            System.out.print(str.charAt(i));
+        }
+    }
+}

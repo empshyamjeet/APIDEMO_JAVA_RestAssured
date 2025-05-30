@@ -2,7 +2,7 @@ package InterviewPrograms;
 
 public class PalindromeCheck {
     public static void main(String[] args) {
-        String str = "madam";
+        String str = "madam2";
         String reversed = new StringBuilder(str).reverse().toString();
         System.out.println(str.equals(reversed) ? "Palindrome" : "Not Palindrome");
     }
